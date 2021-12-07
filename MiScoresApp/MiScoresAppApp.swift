@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct MiScoresAppApp: App {
+    @StateObject var scoresVM = ScoresVM()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabScreenView()
+                .environmentObject(scoresVM)
         }
     }
 }

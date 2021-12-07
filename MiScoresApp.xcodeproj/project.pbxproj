@@ -7,18 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB2780D9274FCA63002B30DB /* ScoreDetailVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB2780D8274FCA63002B30DB /* ScoreDetailVM.swift */; };
+		CB2780DB274FCF17002B30DB /* TabScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB2780DA274FCF17002B30DB /* TabScreenView.swift */; };
+		CB2780DD274FCF2D002B30DB /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB2780DC274FCF2D002B30DB /* FavoritesView.swift */; };
+		CB4843BC275E314800C82004 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4843BB275E314800C82004 /* ActivityView.swift */; };
+		CB4843BE275E35ED00C82004 /* PHPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4843BD275E35ED00C82004 /* PHPickerView.swift */; };
+		CBA2764F275FAB3C00E459B9 /* FavouriteRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA2764E275FAB3C00E459B9 /* FavouriteRowView.swift */; };
+		CBA27651275FAB9000E459B9 /* RowVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA27650275FAB9000E459B9 /* RowVM.swift */; };
 		CBA60666274A592B00545E80 /* MiScoresAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA60665274A592B00545E80 /* MiScoresAppApp.swift */; };
 		CBA60668274A592B00545E80 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA60667274A592B00545E80 /* ContentView.swift */; };
 		CBA6066A274A592D00545E80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBA60669274A592D00545E80 /* Assets.xcassets */; };
 		CBA6066D274A592D00545E80 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBA6066C274A592D00545E80 /* Preview Assets.xcassets */; };
+		CBA60674274A594E00545E80 /* scoresdata.json in Resources */ = {isa = PBXBuildFile; fileRef = CBA60673274A594E00545E80 /* scoresdata.json */; };
+		CBA60677274A59C500545E80 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA60676274A59C500545E80 /* Model.swift */; };
+		CBA6067A274A5D4F00545E80 /* ScoresVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA60679274A5D4F00545E80 /* ScoresVM.swift */; };
+		CBA6067D274A61CA00545E80 /* AddScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA6067C274A61CA00545E80 /* AddScoreView.swift */; };
+		CBA6067F274A63E200545E80 /* ScoreDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA6067E274A63E200545E80 /* ScoreDetailView.swift */; };
+		CBA60681274A693F00545E80 /* ScoreRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA60680274A693F00545E80 /* ScoreRowView.swift */; };
+		CBA60683274A6A0100545E80 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA60682274A6A0100545E80 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CB2780D8274FCA63002B30DB /* ScoreDetailVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreDetailVM.swift; sourceTree = "<group>"; };
+		CB2780DA274FCF17002B30DB /* TabScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabScreenView.swift; sourceTree = "<group>"; };
+		CB2780DC274FCF2D002B30DB /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		CB4843BB275E314800C82004 /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		CB4843BD275E35ED00C82004 /* PHPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PHPickerView.swift; sourceTree = "<group>"; };
+		CBA2764E275FAB3C00E459B9 /* FavouriteRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteRowView.swift; sourceTree = "<group>"; };
+		CBA27650275FAB9000E459B9 /* RowVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowVM.swift; sourceTree = "<group>"; };
 		CBA60662274A592B00545E80 /* MiScoresApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiScoresApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBA60665274A592B00545E80 /* MiScoresAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiScoresAppApp.swift; sourceTree = "<group>"; };
 		CBA60667274A592B00545E80 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CBA60669274A592D00545E80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CBA6066C274A592D00545E80 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CBA60673274A594E00545E80 /* scoresdata.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = scoresdata.json; sourceTree = "<group>"; };
+		CBA60676274A59C500545E80 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		CBA60679274A5D4F00545E80 /* ScoresVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoresVM.swift; sourceTree = "<group>"; };
+		CBA6067C274A61CA00545E80 /* AddScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddScoreView.swift; sourceTree = "<group>"; };
+		CBA6067E274A63E200545E80 /* ScoreDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreDetailView.swift; sourceTree = "<group>"; };
+		CBA60680274A693F00545E80 /* ScoreRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreRowView.swift; sourceTree = "<group>"; };
+		CBA60682274A6A0100545E80 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +79,15 @@
 		CBA60664274A592B00545E80 /* MiScoresApp */ = {
 			isa = PBXGroup;
 			children = (
+				CBA6067B274A61BD00545E80 /* View */,
+				CBA60678274A5D3E00545E80 /* ViewModel */,
+				CBA60675274A59B300545E80 /* Model */,
 				CBA60665274A592B00545E80 /* MiScoresAppApp.swift */,
 				CBA60667274A592B00545E80 /* ContentView.swift */,
 				CBA60669274A592D00545E80 /* Assets.xcassets */,
+				CBA60673274A594E00545E80 /* scoresdata.json */,
 				CBA6066B274A592D00545E80 /* Preview Content */,
+				CBA60682274A6A0100545E80 /* Extension.swift */,
 			);
 			path = MiScoresApp;
 			sourceTree = "<group>";
@@ -65,6 +98,39 @@
 				CBA6066C274A592D00545E80 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CBA60675274A59B300545E80 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CBA60676274A59C500545E80 /* Model.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		CBA60678274A5D3E00545E80 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				CBA60679274A5D4F00545E80 /* ScoresVM.swift */,
+				CB2780D8274FCA63002B30DB /* ScoreDetailVM.swift */,
+				CBA27650275FAB9000E459B9 /* RowVM.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		CBA6067B274A61BD00545E80 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CBA6067C274A61CA00545E80 /* AddScoreView.swift */,
+				CBA6067E274A63E200545E80 /* ScoreDetailView.swift */,
+				CBA60680274A693F00545E80 /* ScoreRowView.swift */,
+				CB2780DA274FCF17002B30DB /* TabScreenView.swift */,
+				CB2780DC274FCF2D002B30DB /* FavoritesView.swift */,
+				CB4843BB275E314800C82004 /* ActivityView.swift */,
+				CB4843BD275E35ED00C82004 /* PHPickerView.swift */,
+				CBA2764E275FAB3C00E459B9 /* FavouriteRowView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +192,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBA6066D274A592D00545E80 /* Preview Assets.xcassets in Resources */,
+				CBA60674274A594E00545E80 /* scoresdata.json in Resources */,
 				CBA6066A274A592D00545E80 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +204,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB2780DD274FCF2D002B30DB /* FavoritesView.swift in Sources */,
+				CBA2764F275FAB3C00E459B9 /* FavouriteRowView.swift in Sources */,
+				CBA60681274A693F00545E80 /* ScoreRowView.swift in Sources */,
+				CBA6067D274A61CA00545E80 /* AddScoreView.swift in Sources */,
+				CBA60677274A59C500545E80 /* Model.swift in Sources */,
+				CBA6067F274A63E200545E80 /* ScoreDetailView.swift in Sources */,
+				CB4843BE275E35ED00C82004 /* PHPickerView.swift in Sources */,
+				CB4843BC275E314800C82004 /* ActivityView.swift in Sources */,
+				CBA27651275FAB9000E459B9 /* RowVM.swift in Sources */,
 				CBA60668274A592B00545E80 /* ContentView.swift in Sources */,
 				CBA60666274A592B00545E80 /* MiScoresAppApp.swift in Sources */,
+				CB2780D9274FCA63002B30DB /* ScoreDetailVM.swift in Sources */,
+				CBA6067A274A5D4F00545E80 /* ScoresVM.swift in Sources */,
+				CB2780DB274FCF17002B30DB /* TabScreenView.swift in Sources */,
+				CBA60683274A6A0100545E80 /* Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +352,7 @@
 				DEVELOPMENT_TEAM = 5Q3AH9TS7A;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "We will add covers to your photo library";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -301,6 +382,7 @@
 				DEVELOPMENT_TEAM = 5Q3AH9TS7A;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "We will add covers to your photo library";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

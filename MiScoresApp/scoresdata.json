@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1,
+		"title": "Star Wars",
+		"composer": "John Williams",
+		"year": 1977,
+		"length": 70,
+		"cover": "StarWars"
+	},
+	{
+		"id": 2,
+		"title": "The Fury",
+		"composer": "John Williams",
+		"year": 1978,
+		"length": 65,
+		"cover": "TheFury"	
+	},
+	{
+		"id": 3,
+		"title": "Superman",
+		"composer": "John Williams",
+		"year": 1978,
+		"length": 74,
+		"cover": "Superman"	
+	},
+	{
+		"id": 4,
+		"title": "The Empire Strikes Back",
+		"composer": "John Williams",
+		"year": 1980,
+		"length": 76,
+		"cover": "EmpireStrikesBack"	
+	},
+	{
+		"id": 5,
+		"title": "Raiders of the Lost Ark",
+		"composer": "John Williams",
+		"year": 1981,
+		"length": 65,
+		"cover": "RaidersOfTheLostArk"	
+	},
+	{
+		"id": 6,
+		"title": "E.T. the Extraterrestrial",
+		"composer": "John Williams",
+		"year": 1982,
+		"length": 71,
+		"cover": "ET"
+	},
+	{
+		"id": 7,
+		"title": "Return of the Jedi",
+		"composer": "John Williams",
+		"year": 1983,
+		"length": 70,
+		"cover": "ReturnOfTheJedi"	
+	},
+	{
+		"id": 8,
+		"title": "Indiana Jones and the Temple of Doom",
+		"composer": "John Williams",
+		"year": 1984,
+		"length": 70,
+		"cover": "IndianaJonesTempleofDoom"	
+	},
+	{
+		"id": 9,
+		"title": "Amazing Stories",
+		"composer": "John Williams",
+		"year": 1985,
+		"length": 70,
+		"cover": "AmazingStories"	
+	},
+	{
+		"id": 16,
+		"title": "Krull",
+		"composer": "James Horner",
+		"year": 1983,
+		"length": 56,
+		"cover": "Krull"	
+	},
+	{
+		"id": 10,
+		"title": "Indiana Jones and the Last Crusade",
+		"composer": "John Williams",
+		"year": 1989,
+		"length": 73,
+		"cover": "IndianaJonesLastCrusade"	
+	},
+	{
+		"id": 11,
+		"title": "Home Alone",
+		"composer": "John Williams",
+		"year": 1990,
+		"length": 67,
+		"cover": "HomeAlone"	
+	},
+	{
+		"id": 12,
+		"title": "Hook",
+		"composer": "John Williams",
+		"year": 1991,
+		"length": 73,
+		"cover": "Hook"	
+	},
+	{
+		"id": 13,
+		"title": "Jurassic Park",
+		"composer": "John Williams",
+		"year": 1993,
+		"length": 75,
+		"cover": "JurassicPark"
+	},
+	{
+		"id": 14,
+		"title": "Schindler's List",
+		"composer": "John Williams",
+		"year": 1993,
+		"length": 68,
+		"cover": "SchindlersList"	
+	},
+	{
+		"id": 15,
+		"title": "Star Trek II: The Wrath of Khan",
+		"composer": "James Horner",
+		"year": 1982,
+		"length": 64,
+		"cover": "StarTrekKhan"	
+	},
+	{
+		"id": 17,
+		"title": "Something Wicked This Way Comes",
+		"composer": "James Horner",
+		"year": 1983,
+		"length": 45,
+		"cover": "SomethingWicked"	
+	},
+	{
+		"id": 18,
+		"title": "Star Trek III: The Search for Spock",
+		"composer": "James Horner",
+		"year": 1984,
+		"length": 51,
+		"cover": "StarTrekIII"	
+	},
+	{
+		"id": 19,
+		"title": "Aliens",
+		"composer": "James Horner",
+		"year": 1986,
+		"length": 64,
+		"cover": "Aliens"	
+	},
+	{
+		"id": 20,
+		"title": "An American Tail",
+		"composer": "James Horner",
+		"year": 1986,
+		"length": 55,
+		"cover": "AmericanTail"	
+	},
+	{
+		"id": 21,
+		"title": "Willow",
+		"composer": "James Horner",
+		"year": 1988,
+		"length": 74,
+		"cover": "Willow"	
+	},
+	{
+		"id": 22,
+		"title": "Cocoon",
+		"composer": "James Horner",
+		"year": 1985,
+		"length": 45,
+		"cover": "Cocoon"	
+	},
+	{
+		"id": 23,
+		"title": "Field of Dreams",
+		"composer": "James Horner",
+		"year": 1989,
+		"length": 50,
+		"cover": "FieldOfDreams"	
+	},
+	{
+		"id": 24,
+		"title": "Glory",
+		"composer": "James Horner",
+		"year": 1989,
+		"length": 43,
+		"cover": "Glory"	
+	},
+	{
+		"id": 25,
+		"title": "Honey, I Shrunk the Kids",
+		"composer": "James Horner",
+		"year": 1989,
+		"length": 51,
+		"cover": "HoneyShrunkKids"
+	},
+	{
+		"id": 26,
+		"title": "Fievel Goes West",
+		"composer": "James Horner",
+		"year": 1991,
+		"length": 55,
+		"cover": "FievelGoesWest"	
+	},
+	{
+		"id": 27,
+		"title": "Sneakers",
+		"composer": "James Horner",
+		"year": 1992,
+		"length": 48,
+		"cover": "Sneakers"
+	},
+	{
+		"id": 28,
+		"title": "Legends of the Fall",
+		"composer": "James Horner",
+		"year": 1994,
+		"length": 75,
+		"cover": "LegendsOfTheFall"	
+	},
+	{
+		"id": 29,
+		"title": "Braveheart",
+		"composer": "James Horner",
+		"year": 1995,
+		"length": 78,
+		"cover": "Braveheart"	
+	},
+	{
+		"id": 30,
+		"title": "The Omen",
+		"composer": "Jerry Goldsmith",
+		"year": 1976,
+		"length": 34,
+		"cover": "TheOmen"	
+	},
+	{
+		"id": 31,
+		"title": "The Boys from Brazil",
+		"composer": "Jerry Goldsmith",
+		"year": 1978,
+		"length": 34,
+		"cover": "BoysFromBrazil"	
+	},	
+	{
+		"id": 32,
+		"title": "Alien",
+		"composer": "Jerry Goldsmith",
+		"year": 1979,
+		"length": 32,
+		"cover": "Alien"	
+	},	
+	{
+		"id": 33,
+		"title": "Star Trek, The Motion Picture",
+		"composer": "Jerry Goldsmith",
+		"year": 1979,
+		"length": 39,
+		"cover": "StarTrek"	
+	},	
+	{
+		"id": 34,
+		"title": "First Blood",
+		"composer": "Jerry Goldsmith",
+		"year": 1982,
+		"length": 40,
+		"cover": "FirstBlood"	
+	},	
+	{
+		"id": 35,
+		"title": "Poltergeist",
+		"composer": "Jerry Goldsmith",
+		"year": 1982,
+		"length": 38,
+		"cover": "Poltergeist"	
+	},	
+	{
+		"id": 36,
+		"title": "The Secret of Nimh",
+		"composer": "Jerry Goldsmith",
+		"year": 1982,
+		"length": 48,
+		"cover": "SecretOfNimh"	
+	},	
+	{
+		"id": 37,
+		"title": "Gremlins",
+		"composer": "Jerry Goldsmith",
+		"year": 1984,
+		"length": 30,
+		"cover": "Gremlins"	
+	},	
+	{
+		"id": 38,
+		"title": "Supergirl",
+		"composer": "Jerry Goldsmith",
+		"year": 1984,
+		"length": 76,
+		"cover": "SuperGirl"	
+	},	
+	{
+		"id": 39,
+		"title": "Explorers",
+		"composer": "Jerry Goldsmith",
+		"year": 1985,
+		"length": 40,
+		"cover": "Explorers"	
+	},	
+	{
+		"id": 40,
+		"title": "Hoosiers",
+		"composer": "Jerry Goldsmith",
+		"year": 1986,
+		"length": 39,
+		"cover": "Hoosiers"	
+	},	
+	{
+		"id": 41,
+		"title": "Innerspace",
+		"composer": "Jerry Goldsmith",
+		"year": 1987,
+		"length": 46,
+		"cover": "Innerspace"	
+	},
+	{
+		"id": 42,
+		"title": "The'Burbs",
+		"composer": "Jerry Goldsmith",
+		"year": 1989,
+		"length": 30,
+		"cover": "TheBurbs"	
+	},
+	{
+		"id": 43,
+		"title": "Gremlins 2: The New Batch",
+		"composer": "Jerry Goldsmith",
+		"year": 1990,
+		"length": 37,
+		"cover": "Gremlins2"	
+	},	
+	{
+		"id": 44,
+		"title": "The Russia House",
+		"composer": "Jerry Goldsmith",
+		"year": 1990,
+		"length": 61,
+		"cover": "RussiaHouse"	
+	},	
+	{
+		"id": 45,
+		"title": "Basic Instinct",
+		"composer": "Jerry Goldsmith",
+		"year": 1992,
+		"length": 44,
+		"cover": "BasicInstinct"	
+	},	
+	{
+		"id": 46,
+		"title": "Medicine Man",
+		"composer": "Jerry Goldsmith",
+		"year": 1992,
+		"length": 49,
+		"cover": "MedicineMan"	
+	},
+	{
+		"id": 47,
+		"title": "Rudy",
+		"composer": "Jerry Goldsmith",
+		"year": 1993,
+		"length": 36,
+		"cover": "Rudy"	
+	},
+	{
+		"id": 48,
+		"title": "The Shadow",
+		"composer": "Jerry Goldsmith",
+		"year": 1994,
+		"length": 45,
+		"cover": "TheShadow"	
+	},
+	{
+		"id": 49,
+		"title": "First Knight",
+		"composer": "Jerry Goldsmith",
+		"year": 1995,
+		"length": 40,
+		"cover": "FirstKnight"	
+	},
+	{
+		"id": 50,
+		"title": "Total Recall",
+		"composer": "Jerry Goldsmith",
+		"year": 1990,
+		"length": 40,
+		"cover": "TotalRecall"	
+	},
+	{
+		"id": 51,
+		"title": "Alias",
+		"composer": "Michael Giacchino",
+		"year": 2001,
+		"length": 65,
+		"cover": "Alias"
+	},
+	{
+		"id": 52,
+		"title": "The Incredibles",
+		"composer": "Michael Giacchino",
+		"year": 2004,
+		"length": 55,
+		"cover": "TheIncredibles"	
+	},
+	{
+		"id": 53,
+		"title": "Lost",
+		"composer": "Michael Giacchino",
+		"year": 2004,
+		"length": 64,
+		"cover": "Lost"	
+	},
+	{
+		"id": 54,
+		"title": "Mission: Impossible III",
+		"composer": "Michael Giacchino",
+		"year": 2006,
+		"length": 64,
+		"cover": "MI3"	
+	},
+	{
+		"id": 55,
+		"title": "Ratatouille",
+		"composer": "Michael Giacchino",
+		"year": 2007,
+		"length": 62,
+		"cover": "Ratatouille"	
+	},
+	{
+		"id": 56,
+		"title": "Fringe",
+		"composer": "Michael Giacchino",
+		"year": 2007,
+		"length": 70,
+		"cover": "Fringe"	
+	},
+	{
+		"id": 57,
+		"title": "Speed Racer",
+		"composer": "Michael Giacchino",
+		"year": 2008,
+		"length": 60,
+		"cover": "SpeedRacer"	
+	},
+	{
+		"id": 58,
+		"title": "Star Trek",
+		"composer": "Michael Giacchino",
+		"year": 2009,
+		"length": 44,
+		"cover": "StarTrek11"	
+	},
+	{
+		"id": 59,
+		"title": "Star Trek",
+		"composer": "Michael Giacchino",
+		"year": 2009,
+		"length": 44,
+		"cover": "StarTrek11"	
+	},
+	{
+		"id": 60,
+		"title": "Up!",
+		"composer": "Michael Giacchino",
+		"year": 2009,
+		"length": 53,
+		"cover": "Up"	
+	},
+	{
+		"id": 61,
+		"title": "Let Me In",
+		"composer": "Michael Giacchino",
+		"year": 2010,
+		"length": 70,
+		"cover": "LetMeIn"
+	},
+	{
+		"id": 62,
+		"title": "Cars 2",
+		"composer": "Michael Giacchino",
+		"year": 2010,
+		"length": 62,
+		"cover": "Cars2"
+	},
+	{
+		"id": 63,
+		"title": "Mission: Impossible - Ghost Protocol",
+		"composer": "Michael Giacchino",
+		"year": 2011,
+		"length": 76,
+		"cover": "MIGP"
+	},
+	{
+		"id": 64,
+		"title": "John Carter",
+		"composer": "Michael Giacchino",
+		"year": 2012,
+		"length": 74,
+		"cover": "JohnCarter"
+	},
+	{
+		"id": 65,
+		"title": "Dawn of the Planet of the Apes",
+		"composer": "Michael Giacchino",
+		"year": 2014,
+		"length": 77,
+		"cover": "DawnPlanetApes"
+	},
+	{
+		"id": 66,
+		"title": "Star Trek Into Darkness",
+		"composer": "Michael Giacchino",
+		"year": 2013,
+		"length": 44,
+		"cover": "StarTrekIntoDarkness"
+	},
+	{
+		"id": 67,
+		"title": "Inside Out",
+		"composer": "Michael Giacchino",
+		"year": 2015,
+		"length": 56,
+		"cover": "InsideOut"
+	},
+	{
+		"id": 68,
+		"title": "Jupiter Ascending",
+		"composer": "Michael Giacchino",
+		"year": 2015,
+		"length": 103,
+		"cover": "JupiterAscending"
+	},
+	{
+		"id": 69,
+		"title": "Jurassic World",
+		"composer": "Michael Giacchino",
+		"year": 2015,
+		"length": 76,
+		"cover": "JurassicWorld"	
+	},
+	{
+		"id": 70,
+		"title": "Tomorrowland",
+		"composer": "Michael Giacchino",
+		"year": 2015,
+		"length": 73,
+		"cover": "Tomorrowland"
+	},
+	{
+		"id": 71,
+		"title": "Doctor Strange",
+		"composer": "Michael Giacchino",
+		"year": 2016,
+		"length": 73,
+		"cover": "DoctorStrange"
+	},
+	{
+		"id": 72,
+		"title": "Rogue One: A Star Wars Story",
+		"composer": "Michael Giacchino",
+		"year": 2016,
+		"length": 70,
+		"cover": "RogueOne"
+	}
+]
